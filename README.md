@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="TipRelay logo" width="200"></p>
+
 # tiprelay-releases
 Installers and updates for TipRelay
 
