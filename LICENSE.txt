@@ -1,0 +1,31 @@
+TipRelay License
+
+Copyright (c) 2026 Xander Digital. All rights reserved, except as stated below.
+
+"TipRelay" here means the TipRelay app, its installer, its documentation and the relay
+files that come with it.
+
+WHAT YOU MAY DO
+- Download, install and use TipRelay for free, including on streams that earn money.
+- Set up and run your own copy of the relay for use with your copy of TipRelay. You may
+  change the relay's settings as needed to do this.
+- Share exact, unmodified copies of the TipRelay download with others, free of charge.
+
+WHAT YOU MAY NOT DO
+- Sell, rent or charge for TipRelay or any part of it.
+- Share modified copies of TipRelay or any part of it.
+- Remove this license or the copyright and creator notices, or present TipRelay as your
+  own work.
+
+OTHER SOFTWARE
+TipRelay includes software by other authors, such as Electron and the Inter font. Those
+parts remain under their own licenses, and this license doesn't change their terms.
+
+NO WARRANTY
+TipRelay is provided "as is," without warranty of any kind, express or implied, including
+the warranties of merchantability, fitness for a particular purpose and noninfringement.
+To the fullest extent the law allows, Xander Digital isn't liable for any claim, damages
+or other liability arising from TipRelay or its use, including missed events, service
+costs or actions taken on your accounts.
+
+You're responsible for following the terms of any service you connect to TipRelay.
