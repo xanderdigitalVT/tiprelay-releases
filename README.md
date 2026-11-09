@@ -41,7 +41,7 @@ You will need to use streamer.bot in order to use some functions.
 - **Backups:** export and restore your settings and rules
 - **Automatic updates:** new versions download in the background, and TipRelay never restarts by itself. The version number and a **Check for updates** button are at the bottom of the sidebar.
 
-Your settings are kept in `%APPDATA%\TipRelay\config.json`. Sign-ins and tokens are encrypted with Windows DPAPI in `secrets.bin` in the same folder. The Fansly management session is kept on your PC too, but it may not be encrypted, and it never includes your password.
+Your settings are kept in `%APPDATA%\TipRelay\config.json`. Sign-ins and tokens are encrypted with Windows DPAPI in `secrets.bin` in the same folder. The Fansly sign-in is kept in the Fansly window's own storage on your PC.
 
 ## Install
 
